@@ -1,7 +1,7 @@
 # AnimatedCord
 A *very* simple Discord theme aimed at animating clickable elements.
 Targetting Vencord; BetterDiscord is and will (likely) remain untested.
-[**Preview Theme**](https://gibbu.github.io/ThemePreview/?file=https://cdn.jsdelivr.net/gh/DatBogie/AnimatedCord@refs/heads/main/AnimatedCord.theme.css)
+[**Preview Theme**](https://gibbu.github.io/ThemePreview/?file=https://cdn.jsdelivr.net/gh/DatBogie/AnimatedCord@refs/heads/main/AnimatedCord.theme.css) via Gibbu's [ThemePreview](https://github.com/Gibbu/ThemePreview)
 
 # Installation
 To install, do as you would with any other Vencord theme:
