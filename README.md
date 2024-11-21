@@ -11,3 +11,5 @@ To install, do as you would with any other Vencord theme:
 5. If you do not see `AnimatedCord`, simply click the `Load missing Themes` button, and it should appear!
 
 > Note: compatability with other themes is not guaranteed by any means; **this theme will not work with certain themes**. I have tested AnimatedCord with SkeuoCord, and found that certain buttons (namely the `User Settings`, `Deafen`, and `Mute` buttons) fail to animate.
+
+![Click the `Download raw file` button.](https://github.com/DatBogie/AnimatedCord/blob/main/AnimatedCordDownload.png?raw=true)
