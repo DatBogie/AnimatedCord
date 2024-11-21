@@ -1,3 +1,3 @@
 # AnimatedCord
-A *very* simple discord theme aimed at animating various clickable elements.
+A *very* simple Discord theme aimed at animating clickable elements.
 Targetting Vencord; BetterDiscord is and will (likely) remain untested.
