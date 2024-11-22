@@ -1,4 +1,4 @@
-# AnimatedCord
+# AnimatedCord <img src="https://raw.githubusercontent.com/DatBogie/AnimatedCord/refs/heads/main/AnimatedCordLogo.png" height="25">
 A *very* simple Discord theme aimed at animating clickable elements.
 Targetting Vencord; BetterDiscord is and will (likely) remain untested.<br>
 [**Preview Theme**](https://gibbu.github.io/ThemePreview/?file=https://cdn.jsdelivr.net/gh/DatBogie/AnimatedCord@refs/heads/main/AnimatedCord.theme.css) via Gibbu's [ThemePreview](https://github.com/Gibbu/ThemePreview)
@@ -14,4 +14,4 @@ To install, do as you would with any other Vencord theme:
 
 > Note: compatability with other themes is not guaranteed by any means; **this theme will not work with certain themes**. I have tested AnimatedCord with SkeuoCord, and found that certain buttons (namely the `User Settings`, `Deafen`, and `Mute` buttons) fail to animate.
 
-![Click the `Download raw file` button.](https://github.com/DatBogie/AnimatedCord/blob/main/AnimatedCordDownload.png?raw=true)
+![Click the `Download raw file` button.](https://raw.githubusercontent.com/DatBogie/AnimatedCord/refs/heads/main/AnimatedCordDownload.png)
