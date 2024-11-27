@@ -1,7 +1,7 @@
 # AnimatedCord <img src="https://raw.githubusercontent.com/DatBogie/AnimatedCord/refs/heads/main/AnimatedCordLogo.png" height="25">
 A *very* simple Discord theme aimed at animating clickable elements.
 Targetting Vencord; BetterDiscord is and will (likely) remain untested.<br>
-### [**DOWNLOAD HERE**](https://bit.ly/DownloadAnimatedCord)
+### [**< DOWNLOAD HERE >**](https://bit.ly/DownloadAnimatedCord)
 [**Preview Theme**](https://gibbu.github.io/ThemePreview/?file=https://cdn.jsdelivr.net/gh/DatBogie/AnimatedCord@refs/heads/main/AnimatedCord.theme.css) via Gibbu's [ThemePreview](https://github.com/Gibbu/ThemePreview)
 > Note: ThemePreview is not perfect; there are various things that the real AnimatedCord theme does that aren't visible via the preview.
 
