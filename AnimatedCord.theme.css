@@ -7,17 +7,17 @@
  * @website https://datbogie.github.io/
  */
 
-button:not(.barButtonMain_cf58b5):hover,[role="menuitemradio"]:hover,[role="radio"]:hover,[role="menuitemcheckbox"]:hover,[role="tab"]:not(.item_a0):hover,[role="button"]:not([aria-haspopup="listbox"]):not(:has(> .replyLabel_b11c5e)):hover,[role="menuitem"]:hover,[role="option"]:not(.option_f6639d):hover,[role="listitem"]:hover,[role="switch"]:hover,.control_ed1d57:hover,a:not([href="https://betterdiscord.app/themes"]):not([href="https://github.com/search?q=discord+theme"]):hover,.label_d1ac9b:hover,.clickable_f9f2ca:hover,.clickableWrapper_d4597d:hover,.imageContainer_cf58b5:hover,.wrapper_c51b4e:hover,.clickable_fd6364:hover, .grabber_c7a159:hover {
+button:not(.barButtonMain_cf58b5):hover,[role="menuitemradio"]:hover,[role="radio"]:hover,[role="menuitemcheckbox"]:hover,[role="tab"]:not(.item_a0):hover,[role="button"]:not([aria-haspopup="listbox"]):not(:has(> .replyLabel_b11c5e)):hover,[role="menuitem"]:hover,[role="option"]:not(.option_f6639d):hover,[role="listitem"]:hover,[role="switch"]:hover,.control_ed1d57:hover,a:not([href="https://betterdiscord.app/themes"]):not([href="https://github.com/search?q=discord+theme"]):hover,.label_d1ac9b:hover,.clickable_f9f2ca:hover,.clickableWrapper_d4597d:hover,.imageContainer_cf58b5:hover,.wrapper_c51b4e:hover,.clickable_fd6364:hover, .grabber_c7a159:hover,.unreadMentionsBar_fea3ef:hover {
     transform: scale(1.05) !important;
     transition: all 0.1s ease-in-out !important;
 }
 
-button:not(.barButtonMain_cf58b5):active,[role="menuitemradio"]:active,[role="radio"]:active,[role="menuitemcheckbox"]:active,[role="tab"]:not(.item_a0):active,[role="button"]:not([aria-haspopup="listbox"]):not(:has(> .replyLabel_b11c5e)):active,[role="menuitem"]:active,[role="option"]:not(.option_f6639d):active,[role="listitem"]:active,[role="switch"]:active,.control_ed1d57:active,a:not([href="https://betterdiscord.app/themes"]):not([href="https://github.com/search?q=discord+theme"]):active,.label_d1ac9b:active,.clickable_f9f2ca:active,.clickableWrapper_d4597d:active,.wrapper_c51b4e:active,.clickable_fd6364:active, .grabber_c7a159:active {
+button:not(.barButtonMain_cf58b5):active,[role="menuitemradio"]:active,[role="radio"]:active,[role="menuitemcheckbox"]:active,[role="tab"]:not(.item_a0):active,[role="button"]:not([aria-haspopup="listbox"]):not(:has(> .replyLabel_b11c5e)):active,[role="menuitem"]:active,[role="option"]:not(.option_f6639d):active,[role="listitem"]:active,[role="switch"]:active,.control_ed1d57:active,a:not([href="https://betterdiscord.app/themes"]):not([href="https://github.com/search?q=discord+theme"]):active,.label_d1ac9b:active,.clickable_f9f2ca:active,.clickableWrapper_d4597d:active,.wrapper_c51b4e:active,.clickable_fd6364:active, .grabber_c7a159:active,.unreadMentionsBar_fea3ef:active {
     transform: scale(.95) !important;
     transition: all 0.1s ease-out !important;
 }
 
-button,[role="menuitemradio"],[role="radio"],[role="menuitemcheckbox"],[role="tab"]:not(.item_a0),[role="button"]:not([aria-haspopup="listbox"]):not(:has(> .replyLabel_b11c5e)),[role="menuitem"],[role="option"]:not(.option_f6639d),[role="listitem"],[role="switch"],.control_ed1d57,a,.label_d1ac9b,.clickable_f9f2ca,.clickableWrapper_d4597d,.imageContainer_cf58b5,.wrapper_c51b4e,.clickable_fd6364, .grabber_c7a159 {
+button,[role="menuitemradio"],[role="radio"],[role="menuitemcheckbox"],[role="tab"]:not(.item_a0),[role="button"]:not([aria-haspopup="listbox"]):not(:has(> .replyLabel_b11c5e)),[role="menuitem"],[role="option"]:not(.option_f6639d),[role="listitem"],[role="switch"],.control_ed1d57,a,.label_d1ac9b,.clickable_f9f2ca,.clickableWrapper_d4597d,.imageContainer_cf58b5,.wrapper_c51b4e,.clickable_fd6364, .grabber_c7a159,.unreadMentionsBar_fea3ef {
     /* transform: scale(1.0) !important; */
     transition: all 0.2s ease-in-out !important;
 }
